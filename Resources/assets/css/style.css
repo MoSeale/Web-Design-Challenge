@@ -1,0 +1,29 @@
+h3 {
+    color: #5ba34f;
+    font-size: 38px;
+}
+
+h1 {
+    color: #5ba34f;
+    font-size: 45px
+}
+
+nav.custom {
+    background-color: #ffffff;
+}
+
+navbar-brand{
+    style="background-color: #7fe0a8e7"
+
+}
+
+@media (max-width: 400px) {
+    nav.custbg {
+        background-color: #5ba34f;
+    }
+}
+
+.padded {
+    padding-left: 45px;
+    padding-right: 45px;
+}
